@@ -1,4 +1,4 @@
-# vue-user-card
+# weather-info
 
 ## Project setup
 ```
