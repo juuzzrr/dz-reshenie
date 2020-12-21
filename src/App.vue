@@ -14,7 +14,7 @@ export default {
     UserCard
   },
   data() {
-      info: [],
+      info: []
   },
   methods: {
     update() {
